@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.App-header {
+  font-size: larger;
+}
+
+input {
+  font-size: larger;
+}
+
+button {
+  font-size: larger;
+  margin-left: 15px;
+}
+
+span {
+  padding: 5px 15px;
+}
